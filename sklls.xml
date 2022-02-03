@@ -1,0 +1,7 @@
+<?xml version=«1.0» encoding=«UTF-8»?>
+<student>
+	<Инструменты>Postmaz, Charles, Fidder, Dev Tools, VPN, XCode, Android Studio, Terminal (MacOS), Jmeter, Redis</Инструменты>
+	<Навыки>Python, SQL, Git Bash, GIT, JSON, XML</Навыки>
+	<Умения>Тестирование мобильных приложений, перехват мобильного трафика, нагрузочное тестирование, доступ к удаленным серверам, автоматизация рутинных задач</Умения>
+	<Бонус>Писать XML прямо в терминале</Бонус>
+</student>
