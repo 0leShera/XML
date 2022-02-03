@@ -1,6 +1,6 @@
 <?xml version=«1.0» encoding=«UTF-8»?>
 <Bug>
-  <№BugReport>01</№BugReport>
+  <NumberBugReport>01</NumberBugReport>
   <Summary>Форма ввода выдает ошибку при вводе нецелых числел</Summary>
   <Project>001 https://playground.learnqa.ru/puzzle/triangle</Project>
   <Severity>Critical</Severity>
