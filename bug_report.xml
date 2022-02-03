@@ -1,1 +1,16 @@
-
+<?xml version=«1.0» encoding=«UTF-8»?>
+<Bug>
+  <№BugReport>01</№BugReport>
+  <Summary>Форма ввода выдает ошибку при вводе нецелых числел</Summary>
+  <Project>001 https://playground.learnqa.ru/puzzle/triangle</Project>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Status>New</Status>
+  <Author>Олеся Щербакова</Author>
+  <AssignedTo>Марта Мартовна</AssignedTo>
+  <Environment>MacOS Big Sur 11.6.3, Google Chrome 97.0.4692.99</Environment>
+  <StepsToReproduce>1. Перети по ссылке https://playground.learnqa.ru/puzzle/triangle. 2. Ввести в поля Сторона А, Сторона В, Сторона С нецелые числа, разделенные (,), например: 4,5. 3. Нажать на кнопку показать</StepsToReproduce>
+  <Result>Сервис выводит сообщение об ошибке: 'Это НЕ треугольник. Вы ввели: A: 4,5; B: 4,5; C: 4,5'</Result>
+  <ExpectedResult>Построен равносторонний треугольник</ExpectedResult>
+  <Attachment>https://drive.google.com/file/d/1ZwQS9ex2gr6VlxeSZWXJy5jl3mn5dsvc/view?usp=sharing</Attachment>
+</Bug>
