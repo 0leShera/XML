@@ -1,8 +1,8 @@
 <?xml version=«1.0» encoding=«UTF-8»?>
 <student>
-	<ЛюбимыйФильм>Реквием по мечте</ЛюбимыйФильм>
-	<ЛюбимыйСериал>Время приключений</ЛюбимыйСериал>
-	<ЛюбимаяЕда>Вкусная</ЛюбимаяЕда>
-	<ЛюбимоеВремяГода>теплое, но не жаркое</ЛюбимоеВремяГода>
-	<СтранаКоторуюХочетсяПосетить>Япония</СтранаКоторуюХочетсяПосетить>
+	<FavoriteCinema>Реквием по мечте</FavoriteCinema>
+	<FavoriteSerial>Время приключений</FavoriteSerial>
+	<FavoriteEat>Вкусная</FavoriteEat>
+	<FavoriteSeason>теплое, но не жаркое</FavoriteSeason>
+	<FavoriteCountry>Япония</FavoriteCountry>
 </student>
